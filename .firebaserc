@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kgcabledashboad": {
+      "hosting": {
+        "app": [
+          "kgcabledashboad"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kgcabledashboad"
+  }
+}
